@@ -9,8 +9,8 @@ Make sure you have the following installed:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/06-abhishek/redis.git
+cd redis
 ```
 
 ### 2️⃣ Install Dependencies  
