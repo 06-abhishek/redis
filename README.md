@@ -40,7 +40,7 @@ redis-server
 ### 5️⃣ Verify Redis Connection  
 Open a new terminal and run:  
 ```bash
-redis-cli
+.\redis-cli.exe
 ```
 Then type:  
 ```redis
